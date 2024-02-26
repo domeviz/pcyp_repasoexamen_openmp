@@ -16,6 +16,22 @@ std::vector<int> read_file() {
     return ret;
 }
 
+//Serial
+std::vector<int> tablitadefrecuencias(const int* datos,const int tam){
+    std::vector<int> resultados(100);
+    int contador=0;
+    for(int i=0;i<101;i++){
+        for(int j=0;j<tam;j++){
+            if(i==datos[j]){
+                contador+=1;
+            }
+        }
+        resultados[i]=contador;
+        contador=0;
+    }
+    return resultados;
+}
+
 int main() {
     std::cout << "Hello, World!" << std::endl;
 
@@ -24,6 +40,12 @@ int main() {
         fmt::println("{}",datos[i]);
     }
 
+    //Tabla de frecuencias
+    std::vector<int> vectorserial=tablitadefrecuencias(datos.data(),datos.size());
+
+    for(int i =0; i<=100;i++){
+        fmt::println("{} {}",i,vectorserial[i]);
+    }
 
     return 0;
 }
