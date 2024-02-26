@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_practicaopenmp: phony || CMakeFiles/prac
 
 build CMakeFiles/practicaopenmp.dir/main.cpp.obj: CXX_COMPILER__practicaopenmp_unscanned_Debug C$:/Users/USUARIO/Documents/Domenica/Semestres/Noveno$ Semestre/Programacion$ Concurrente$ y$ Paralela/Ejercicios/practicaopenmp/main.cpp || cmake_object_order_depends_target_practicaopenmp
   DEP_FILE = CMakeFiles\practicaopenmp.dir\main.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -fopenmp -g -fdiagnostics-color=always
   INCLUDES = -isystem C:/Users/USUARIO/.conan2/p/b/fmt6a3c2eaa939b5/p/include
   OBJECT_DIR = CMakeFiles\practicaopenmp.dir
   OBJECT_FILE_DIR = CMakeFiles\practicaopenmp.dir
@@ -65,7 +65,7 @@ build CMakeFiles/practicaopenmp.dir/main.cpp.obj: CXX_COMPILER__practicaopenmp_u
 # Link the executable practicaopenmp.exe
 
 build practicaopenmp.exe: CXX_EXECUTABLE_LINKER__practicaopenmp_Debug CMakeFiles/practicaopenmp.dir/main.cpp.obj | C$:/Users/USUARIO/.conan2/p/b/fmt6a3c2eaa939b5/p/lib/libfmtd.a
-  FLAGS = -g
+  FLAGS = -fopenmp -g
   LINK_LIBRARIES = C:/Users/USUARIO/.conan2/p/b/fmt6a3c2eaa939b5/p/lib/libfmtd.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   LINK_PATH = -LC:/Users/USUARIO/.conan2/p/b/fmt6a3c2eaa939b5/p/lib
   OBJECT_DIR = CMakeFiles\practicaopenmp.dir
