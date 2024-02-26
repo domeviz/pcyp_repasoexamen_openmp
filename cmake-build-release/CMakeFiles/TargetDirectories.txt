@@ -1,0 +1,3 @@
+C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/practicaopenmp/cmake-build-release/CMakeFiles/practicaopenmp.dir
+C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/practicaopenmp/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/practicaopenmp/cmake-build-release/CMakeFiles/rebuild_cache.dir

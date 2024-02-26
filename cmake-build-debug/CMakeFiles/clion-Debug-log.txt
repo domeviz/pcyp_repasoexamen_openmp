@@ -84,6 +84,6 @@ Install finished successfully
 -- CMake-Conan: CONAN_GENERATORS_FOLDER=C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/practicaopenmp/cmake-build-debug/conan/build/Debug/generators
 -- CMake-Conan: CONANFILE=C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/practicaopenmp/conanfile.py
 -- Conan: Component target declared 'fmt::fmt'
--- Configuring done (2.0s)
+-- Configuring done (1.7s)
 -- Generating done (0.0s)
 -- Build files have been written to: C:/Users/USUARIO/Documents/Domenica/Semestres/Noveno Semestre/Programacion Concurrente y Paralela/Ejercicios/practicaopenmp/cmake-build-debug

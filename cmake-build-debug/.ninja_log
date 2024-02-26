@@ -1,4 +1,12 @@
 # ninja log v5
-5	1760	7306866374967284	build.ninja	b25668b8e21f55fc
+5	1760	7306869360868114	build.ninja	b25668b8e21f55fc
 1	633	7306863079265511	CMakeFiles/practicaopenmp.dir/main.cpp.obj	cfaa90c5241ce7e3
 636	813	7306863081012764	practicaopenmp.exe	818dd3209cc27f6e
+10	1489	7306870525188173	CMakeFiles/practicaopenmp.dir/main.cpp.obj	c5dcdc1820b23e3
+1491	1737	7306870527600676	practicaopenmp.exe	27544bfe417db2bb
+16	1198	7306873667694437	CMakeFiles/practicaopenmp.dir/main.cpp.obj	c5dcdc1820b23e3
+1199	1634	7306873671969130	practicaopenmp.exe	27544bfe417db2bb
+5	1167	7306873921099321	CMakeFiles/practicaopenmp.dir/main.cpp.obj	c5dcdc1820b23e3
+1168	1597	7306873925327065	practicaopenmp.exe	27544bfe417db2bb
+6	1138	7306874061877879	CMakeFiles/practicaopenmp.dir/main.cpp.obj	c5dcdc1820b23e3
+1138	1567	7306874066069348	practicaopenmp.exe	27544bfe417db2bb
